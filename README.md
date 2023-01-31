@@ -7,7 +7,7 @@
 
 <br/>
 
-Profile Card Design Using React.Js CSS &amp; HTML
+Profile Card Design Using React.Js 
 
 - Smooth scrolling in each section.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
